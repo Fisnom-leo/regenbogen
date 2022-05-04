@@ -9,20 +9,21 @@ h1 {
     text-align: center;
    font-weight: 500;
    font-family: sans-serif;
-   text-decoration: underline;
-
-   
+   text-decoration: underline; 
    }
+
 
 .b1 {
     height: 50px;
     width: 3000px;
-    background-color: rgb(174, 79, 35);
+    background-color: rgba(174, 79, 35, 0.948);
+    
 }
 .b2 {
     height: 50px;
     width: 3000px;
     background-color: rgba(174, 97, 35, 0.942);
+    
 }
 .b3 {
     height: 50px;
